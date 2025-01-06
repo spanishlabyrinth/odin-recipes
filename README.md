@@ -1,0 +1,1 @@
+This is a compilation of my favorite recipes. This allows me to practice my skills in the command line, Git, VSC, and HTML.
